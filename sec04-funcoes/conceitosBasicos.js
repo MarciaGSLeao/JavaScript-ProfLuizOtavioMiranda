@@ -31,7 +31,7 @@ arrowFunction();
 // Uma função também pode ser criada dentro de um objeto, como se fosse um método do objeto.
 const pessoa = {
     habilidade: function(){
-        console.log("Falar......")
+        console.log("Programar")
     }
 }
 pessoa.habilidade();
